@@ -1,0 +1,198 @@
+{
+  "matches": [
+    {
+      "a": "A",
+      "b": "B",
+      "winner_side": "B",
+      "winner": "B",
+      "margin": 3,
+      "reason": "B's twist reframes the eternally \"warming up\" printer as an employee coasting to retirement, a fresh and surprising payoff, while A's meeting-about-a-meeting premise is a familiar trope with a weaker ",
+      "raw": "Winner: B\nMargin: 3\nReason: B's twist reframes the eternally \"warming up\" printer as an employee coasting to retirement, a fresh and surprising payoff, while A's meeting-about-a-meeting premise is a familiar trope with a weaker punch."
+    },
+    {
+      "a": "B",
+      "b": "A",
+      "winner_side": "A",
+      "winner": "B",
+      "margin": 3,
+      "reason": "A's \"warming up since Tuesday\" is a specific, surprising payoff, while B's meeting-about-a-meeting recursion leans on a well-worn corporate trope.",
+      "raw": "Winner: A\nMargin: 3\nReason: A's \"warming up since Tuesday\" is a specific, surprising payoff, while B's meeting-about-a-meeting recursion leans on a well-worn corporate trope."
+    },
+    {
+      "a": "A",
+      "b": "C",
+      "winner_side": "B",
+      "winner": "C",
+      "margin": 3,
+      "reason": "B lands a fresh, specific standup epiphany with a deflating punchline, while A's meeting-about-a-meeting gag is a well-worn trope.",
+      "raw": "Winner: B\nMargin: 3\nReason: B lands a fresh, specific standup epiphany with a deflating punchline, while A's meeting-about-a-meeting gag is a well-worn trope."
+    },
+    {
+      "a": "C",
+      "b": "A",
+      "winner_side": "A",
+      "winner": "C",
+      "margin": 3,
+      "reason": "A's standup self-unblocking twist is a fresher, more specific payoff, while B leans on the well-worn meeting-about-a-meeting trope.",
+      "raw": "Winner: A\nMargin: 3\nReason: A's standup self-unblocking twist is a fresher, more specific payoff, while B leans on the well-worn meeting-about-a-meeting trope."
+    },
+    {
+      "a": "A",
+      "b": "D",
+      "winner_side": "B",
+      "winner": "D",
+      "margin": 3,
+      "reason": "B's exact-count reply-all \"thanks\" pile-up is a sharper, more specific and recognisable punchline, while A leans on the well-worn meeting-about-meetings trope.",
+      "raw": "Winner: B\nMargin: 3\nReason: B's exact-count reply-all \"thanks\" pile-up is a sharper, more specific and recognisable punchline, while A leans on the well-worn meeting-about-meetings trope."
+    },
+    {
+      "a": "D",
+      "b": "A",
+      "winner_side": "A",
+      "winner": "D",
+      "margin": 2,
+      "reason": "A's concrete detail (47 unread, 46 reply-all \"thanks\" burying the one that mattered) lands a fresher, sharper payoff, while B's meeting-about-a-meeting premise is a well-worn office staple despite its",
+      "raw": "Winner: A\nMargin: 2\nReason: A's concrete detail (47 unread, 46 reply-all \"thanks\" burying the one that mattered) lands a fresher, sharper payoff, while B's meeting-about-a-meeting premise is a well-worn office staple despite its smoother wording."
+    },
+    {
+      "a": "A",
+      "b": "F",
+      "winner_side": "B",
+      "winner": "F",
+      "margin": 3,
+      "reason": "B lands a surprising, recognisable twist on a specific modern office detail (status indicators), while A leans on the well-worn meeting-about-meetings trope with a predictable punchline.",
+      "raw": "Winner: B\nMargin: 3\nReason: B lands a surprising, recognisable twist on a specific modern office detail (status indicators), while A leans on the well-worn meeting-about-meetings trope with a predictable punchline."
+    },
+    {
+      "a": "F",
+      "b": "A",
+      "winner_side": "A",
+      "winner": "F",
+      "margin": 3,
+      "reason": "A lands a genuine ironic twist with a specific modern detail (the fake status backfiring), while B reworks the familiar meetings-about-meetings trope without a surprising payoff.",
+      "raw": "Winner: A\nMargin: 3\nReason: A lands a genuine ironic twist with a specific modern detail (the fake status backfiring), while B reworks the familiar meetings-about-meetings trope without a surprising payoff."
+    },
+    {
+      "a": "B",
+      "b": "C",
+      "winner_side": "B",
+      "winner": "C",
+      "margin": 3,
+      "reason": "Both are clean one-liners, but B's standup satire lands a fresher, sharper punchline than A's well-worn printer-trope setup.",
+      "raw": "Winner: B\nMargin: 3\nReason: Both are clean one-liners, but B's standup satire lands a fresher, sharper punchline than A's well-worn printer-trope setup."
+    },
+    {
+      "a": "C",
+      "b": "B",
+      "winner_side": "A",
+      "winner": "C",
+      "margin": 3,
+      "reason": "A's standup \"blocked/unblocked\" satire lands with a sharper, fresher punchline, while B's printer premise, though neatly twisted, is a well-worn office joke setup.",
+      "raw": "Winner: A\nMargin: 3\nReason: A's standup \"blocked/unblocked\" satire lands with a sharper, fresher punchline, while B's printer premise, though neatly twisted, is a well-worn office joke setup."
+    },
+    {
+      "a": "B",
+      "b": "D",
+      "winner_side": "B",
+      "winner": "D",
+      "margin": 2,
+      "reason": "B's 47/46 arithmetic turns the reply-all \"thanks\" storm into a crisp, instantly recognised punchline, while A's retirement-plan leap is cleverer on paper but murkier on first read.",
+      "raw": "Winner: B\nMargin: 2\nReason: B's 47/46 arithmetic turns the reply-all \"thanks\" storm into a crisp, instantly recognised punchline, while A's retirement-plan leap is cleverer on paper but murkier on first read."
+    },
+    {
+      "a": "D",
+      "b": "B",
+      "winner_side": "A",
+      "winner": "D",
+      "margin": 3,
+      "reason": "A's reply-all \"thanks\" pile-up lands instantly with a precise, universally recognized payoff, while B's printer setup leans on a clich\u00e9d prop and its retirement-plan analogy needs a beat of decoding.",
+      "raw": "Winner: A\nMargin: 3\nReason: A's reply-all \"thanks\" pile-up lands instantly with a precise, universally recognized payoff, while B's printer setup leans on a clich\u00e9d prop and its retirement-plan analogy needs a beat of decoding."
+    },
+    {
+      "a": "B",
+      "b": "F",
+      "winner_side": "B",
+      "winner": "F",
+      "margin": 3,
+      "reason": "B lands a crisp, instantly recognizable ironic reversal with tight wording, while A's printer premise is a well-worn trope whose \"retirement plan\" punchline takes a beat to decode.",
+      "raw": "Winner: B\nMargin: 3\nReason: B lands a crisp, instantly recognizable ironic reversal with tight wording, while A's printer premise is a well-worn trope whose \"retirement plan\" punchline takes a beat to decode."
+    },
+    {
+      "a": "F",
+      "b": "B",
+      "winner_side": "A",
+      "winner": "F",
+      "margin": 3,
+      "reason": "A lands a sharp, instantly clear irony about status-setting that every office worker recognizes, while B leans on worn printer territory with a muddled retirement punchline.",
+      "raw": "Winner: A\nMargin: 3\nReason: A lands a sharp, instantly clear irony about status-setting that every office worker recognizes, while B leans on worn printer territory with a muddled retirement punchline."
+    },
+    {
+      "a": "C",
+      "b": "D",
+      "winner_side": "A",
+      "winner": "C",
+      "margin": 3,
+      "reason": "A's standup twist\u2014being \"unblocked\" just by speaking, then accomplishing nothing\u2014is a fresher, sharper satirical payoff than B's cleverly quantified but well-worn reply-all complaint.",
+      "raw": "Winner: A\nMargin: 3\nReason: A's standup twist\u2014being \"unblocked\" just by speaking, then accomplishing nothing\u2014is a fresher, sharper satirical payoff than B's cleverly quantified but well-worn reply-all complaint."
+    },
+    {
+      "a": "D",
+      "b": "C",
+      "winner_side": "A",
+      "winner": "D",
+      "margin": 3,
+      "reason": "A delivers a tight, instantly recognisable reply-all punchline with a specific numerical twist, while B's standup joke needs agile context, runs longer in three clauses, and lands with a muddier payof",
+      "raw": "Winner: A\nMargin: 3\nReason: A delivers a tight, instantly recognisable reply-all punchline with a specific numerical twist, while B's standup joke needs agile context, runs longer in three clauses, and lands with a muddier payoff."
+    },
+    {
+      "a": "C",
+      "b": "F",
+      "winner_side": "B",
+      "winner": "F",
+      "margin": 3,
+      "reason": "B lands a sharper, instantly clear ironic twist (the avoidance status backfires), while A's agile-standup gag is muddier and ends on a flat shrug.",
+      "raw": "Winner: B\nMargin: 3\nReason: B lands a sharper, instantly clear ironic twist (the avoidance status backfires), while A's agile-standup gag is muddier and ends on a flat shrug."
+    },
+    {
+      "a": "F",
+      "b": "C",
+      "winner_side": "A",
+      "winner": "F",
+      "margin": 3,
+      "reason": "A's fake-status lie backfiring lands instantly with a universal office irony, while B's standup gag is fresher but needs a beat to decode and leans on agile-specific context.",
+      "raw": "Winner: A\nMargin: 3\nReason: A's fake-status lie backfiring lands instantly with a universal office irony, while B's standup gag is fresher but needs a beat to decode and leans on agile-specific context."
+    },
+    {
+      "a": "D",
+      "b": "F",
+      "winner_side": "B",
+      "winner": "F",
+      "margin": 2,
+      "reason": "B's setup-to-reversal punchline (hiding in a fake meeting that attracts attendees) lands with a cleaner, more surprising payoff than A's solid but more familiar reply-all complaint.",
+      "raw": "Winner: B\nMargin: 2\nReason: B's setup-to-reversal punchline (hiding in a fake meeting that attracts attendees) lands with a cleaner, more surprising payoff than A's solid but more familiar reply-all complaint."
+    },
+    {
+      "a": "F",
+      "b": "D",
+      "winner_side": "A",
+      "winner": "F",
+      "margin": 3,
+      "reason": "A's status-setting twist lands with a genuine surprise on a specific modern office habit, while B rides the well-worn reply-all complaint with a punchline that observes rather than turns.",
+      "raw": "Winner: A\nMargin: 3\nReason: A's status-setting twist lands with a genuine surprise on a specific modern office habit, while B rides the well-worn reply-all complaint with a punchline that observes rather than turns."
+    }
+  ],
+  "wins": {
+    "A": 0,
+    "B": 2,
+    "C": 5,
+    "D": 5,
+    "F": 8
+  },
+  "margin_sum": {
+    "A": 0,
+    "B": 6,
+    "C": 15,
+    "D": 13,
+    "F": 23
+  }
+}
